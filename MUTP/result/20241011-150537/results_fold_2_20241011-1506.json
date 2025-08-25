@@ -1,0 +1,22 @@
+{
+    "seed": 0,
+    "dataset_type": "as",
+    "alpha": 0.2,
+    "beta": 0.2,
+    "gamma": 0.025,
+    "num_epoch": 5,
+    "remarks": "TraffiCFUS",
+    "results": {
+        "accuracy": 0.9016018306636155,
+        "f1": 0.9013952951424418,
+        "one_name": "sparse_traffic",
+        "one_precision": 0.8661087866108786,
+        "one_recall": 0.9495412844036697,
+        "one_f1": 0.9059080962800875,
+        "zero_name": "accident",
+        "zero_precision": 0.9444444444444444,
+        "zero_recall": 0.8538812785388128,
+        "zero_f1": 0.8968824940047961
+    },
+    "k": 2
+}

@@ -1,0 +1,5 @@
+image_url,text,label
+train/accident/a_images_224.jpg,This is the text of a_images_224,0
+train/accident/a_images_355.jpg,This is the text of a_images_355,0
+train/sparse_traffic/s_images_230.jpg,This is the text of s_images_230,1
+train/sparse_traffic/s_images_285.jpg,This is the text of s_images_285,1
